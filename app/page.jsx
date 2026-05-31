@@ -1,7 +1,9 @@
 function main() {
     return ( 
         <div>
-            this is the main file
+            <div>
+                Hello this is github batch
+            </div>
         </div>
      );
 }
