@@ -2,7 +2,7 @@ function main() {
     return ( 
         <div>
             <div>
-                Hello this is my branch
+                Hello this is main
             </div>
         </div>
      );
