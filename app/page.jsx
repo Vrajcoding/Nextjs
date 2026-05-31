@@ -2,7 +2,7 @@ function main() {
     return ( 
         <div>
             <div>
-                Hello this is github batch
+                Hello this is my branch
             </div>
         </div>
      );
