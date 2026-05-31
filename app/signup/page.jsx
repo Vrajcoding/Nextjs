@@ -19,7 +19,6 @@ export default function SignupPage() {
         });
 
         const data = await res.json();
-        console.log(data.message);
     }
 
     return (
